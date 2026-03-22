@@ -28,8 +28,7 @@ To write a Python program to take the radius from the user and find the area of 
 ### PROGRAM
 
 ```
-# Reg.No-212223060200
-# Name-pradeep m
+
 
 import math
 
